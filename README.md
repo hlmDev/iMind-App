@@ -40,6 +40,15 @@
 - 🔐 Privacy-focused & fully offline
 
 ---
+## Interfaces
+![33](https://github.com/user-attachments/assets/705445e2-c93c-45f7-b13e-6ebc6af36fad)
+
+![34](https://github.com/user-attachments/assets/1cd8f82d-3be3-4aab-842b-9d1863d46b17)
+
+![35](https://github.com/user-attachments/assets/7cae1d7e-a1ae-426f-9013-2eead2dc5fb5)
+
+
+---
 
 ## 🎯 Why iMind?
 
